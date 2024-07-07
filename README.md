@@ -1,3 +1,5 @@
+<div style="background-color: #FFD700; padding: 20px; border-radius: 10px;">
+
 <h1 align="center">Hi 👋, I'm Abhinav Chandra</h1>
 <h3 align="center">Passionate Data Science Student</h3>
 
@@ -71,3 +73,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-abhinav&show_icons=true&locale=en" alt="mr-abhinav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-abhinav&" alt="mr-abhinav" /></p>
+
+</div>
