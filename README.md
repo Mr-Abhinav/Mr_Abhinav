@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Chandra</h1>
 <h3 align="center">Passionate Data Science Student</h3>
-<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/male-programmer-8928572">
+<img align="right" alt="coding" width="400" src=""https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 
 - 💬 Ask me about **Mysql,NumPy,Pandas**
@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-abhinav&show_icons=true&locale=en" alt="mr-abhinav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-abhinav&" alt="mr-abhinav" /></p>
+
+
