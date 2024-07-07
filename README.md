@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Chandra</h1>
 <h3 align="center">Passionate Data Science Student</h3>
-<img align ="right" alt="coding" width="400" src = "https://iconscout.com/lottie-animation/male-programmer-8928572">
+<img align="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/male-programmer-8928572">
+
 
 - 💬 Ask me about **Mysql,NumPy,Pandas**
 
